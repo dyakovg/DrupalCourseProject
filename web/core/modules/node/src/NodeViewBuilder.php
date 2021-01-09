@@ -129,7 +129,7 @@ class NodeViewBuilder extends EntityViewBuilder implements TrustedCallbackInterf
     if ($view_mode == 'teaser') {
       $node_title_stripped = strip_tags($entity->label());
       $links['node-readmore'] = [
-        'title' => t('Read more<span class="visually-hidden"> about @title</span>', [
+        'title' => t('More information<span class="visually-hidden"> about @title</span>', [
           '@title' => $node_title_stripped,
         ]),
         'url' => $entity->toUrl(),
