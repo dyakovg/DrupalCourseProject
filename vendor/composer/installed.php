@@ -20,6 +20,24 @@
       ),
       'reference' => 'b9c31def6a83f84b4d4a40d35996d375755f0e08',
     ),
+    'commerceguys/addressing' => 
+    array (
+      'pretty_version' => 'v1.1.0',
+      'version' => '1.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '2450ca97631042faf786855db206a2e48fb7dbb7',
+    ),
+    'commerceguys/intl' => 
+    array (
+      'pretty_version' => 'v1.0.7',
+      'version' => '1.0.7.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '0bf0beb12e37ef1a61e0d09dc66cdaa1a23e62e1',
+    ),
     'composer/installers' => 
     array (
       'pretty_version' => 'v1.9.0',
@@ -47,6 +65,15 @@
       ),
       'reference' => 'ce77a7ba1770462cd705a91a151b6c3746f9c6ad',
     ),
+    'doctrine/collections' => 
+    array (
+      'pretty_version' => '1.6.7',
+      'version' => '1.6.7.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '55f8b799269a1a472457bd1a41b4f379d4cfba4a',
+    ),
     'doctrine/lexer' => 
     array (
       'pretty_version' => '1.2.1',
@@ -71,6 +98,15 @@
       array (
         0 => '9.1.2',
       ),
+    ),
+    'drupal/address' => 
+    array (
+      'pretty_version' => '1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.9',
     ),
     'drupal/aggregator' => 
     array (
@@ -176,6 +212,15 @@
       array (
         0 => '9.1.2',
       ),
+    ),
+    'drupal/commerce' => 
+    array (
+      'pretty_version' => '2.23.0',
+      'version' => '2.23.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-2.23',
     ),
     'drupal/config' => 
     array (
@@ -465,6 +510,15 @@
         0 => '9.1.2',
       ),
     ),
+    'drupal/entity' => 
+    array (
+      'pretty_version' => '1.2.0',
+      'version' => '1.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.2',
+    ),
     'drupal/entity_reference' => 
     array (
       'replaced' => 
@@ -557,6 +611,15 @@
       array (
         0 => '9.1.2',
       ),
+    ),
+    'drupal/inline_entity_form' => 
+    array (
+      'pretty_version' => '1.0.0-rc8',
+      'version' => '1.0.0.0-RC8',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.0-rc8',
     ),
     'drupal/inline_form_errors' => 
     array (
@@ -721,6 +784,15 @@
         0 => '9.1.2',
       ),
     ),
+    'drupal/profile' => 
+    array (
+      'pretty_version' => '1.2.0',
+      'version' => '1.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.2',
+    ),
     'drupal/quickedit' => 
     array (
       'replaced' => 
@@ -807,6 +879,15 @@
         0 => '9.1.2',
       ),
     ),
+    'drupal/state_machine' => 
+    array (
+      'pretty_version' => '1.0.0',
+      'version' => '1.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.0',
+    ),
     'drupal/statistics' => 
     array (
       'replaced' => 
@@ -848,6 +929,15 @@
       array (
         0 => '9.1.2',
       ),
+    ),
+    'drupal/token' => 
+    array (
+      'pretty_version' => '1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.9',
     ),
     'drupal/toolbar' => 
     array (
@@ -1310,21 +1400,21 @@
     ),
     'symfony/polyfill-php72' => 
     array (
-      'pretty_version' => 'v1.20.0',
-      'version' => '1.20.0.0',
+      'pretty_version' => 'v1.22.0',
+      'version' => '1.22.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'cede45fcdfabdd6043b3592e83678e42ec69e930',
+      'reference' => 'cc6e6f9b39fe8075b3dabfbaf5b5f645ae1340c9',
     ),
     'symfony/polyfill-php73' => 
     array (
-      'pretty_version' => 'v1.20.0',
-      'version' => '1.20.0.0',
+      'pretty_version' => 'v1.22.0',
+      'version' => '1.22.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => '8ff431c517be11c78c48a39a66d37431e26a6bed',
+      'reference' => 'a678b42e92f86eca04b7fa4c0f6f19d097fb69e2',
     ),
     'symfony/polyfill-php80' => 
     array (
