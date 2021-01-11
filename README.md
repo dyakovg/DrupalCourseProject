@@ -4,7 +4,7 @@ My course project for drupal course. The theme of the project is "System for onl
 Faculty number of student: 20069
 
 ## Technologies used
-Project is based on Drupal 9. The database is MySQL. The modules that i am using are: Paragraphs, Webforms.
+Project is based on Drupal 9. The database is MySQL. The modules that i am using are: Paragraphs, Webforms, Pathauto.
 
 ## URLs
 
