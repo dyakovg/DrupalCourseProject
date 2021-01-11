@@ -213,15 +213,6 @@
         0 => '9.1.2',
       ),
     ),
-    'drupal/commerce' => 
-    array (
-      'pretty_version' => '2.23.0',
-      'version' => '2.23.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '8.x-2.23',
-    ),
     'drupal/config' => 
     array (
       'replaced' => 
@@ -929,15 +920,6 @@
       array (
         0 => '9.1.2',
       ),
-    ),
-    'drupal/token' => 
-    array (
-      'pretty_version' => '1.9.0',
-      'version' => '1.9.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '8.x-1.9',
     ),
     'drupal/toolbar' => 
     array (
