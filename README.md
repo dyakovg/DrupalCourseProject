@@ -11,7 +11,7 @@ A local installation requires a working local HTTP and database server.
 
 I am using XAMPP and MySQL.
 
-Import the database in localhost/phpmyadmin
+Import the database (file: courseproject_drupal.sql) in localhost/phpmyadmin
 
 Enable Apache and MySQL in the Control panel of XAMPP.
 
